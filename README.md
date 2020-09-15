@@ -16,6 +16,8 @@ Hey, I am Emmanuel, 19 years old and I come from Germany, Stuttgart. Every day I
 
 💬 Ask me about memes, anime or games.
 
+⚡ Fun fact: My favorite anime currently is rent a girlfriend 
+
 📫 How to reach me:
 
 `Twitter` - [IT-Lampe.de](https://twitter.com/rexlManu)
@@ -24,8 +26,6 @@ Hey, I am Emmanuel, 19 years old and I come from Germany, Stuttgart. Every day I
 `Company` - [IT-Lampe.de](https://it-lampe.de)
 
 ❤️ Support my open source projects: [ts3audiobot laravel api](https://github.com/rexlManu/ts3audiobot)
-
-[![Donate on PayPal](https://img.shields.io/badge/--paypal?label=PayPal&logo=PayPal&style=social)](https://www.paypal.me/rexlManu)
 
 <!--
 **elangosundar/elangosundar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
