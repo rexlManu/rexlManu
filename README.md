@@ -20,8 +20,8 @@ Hey, I am Emmanuel, 19 years old and I come from Germany, Stuttgart. Every day I
 
 📫 How to reach me:
 
-`Twitter` - [IT-Lampe.de](https://twitter.com/rexlManu)
-`Telegram` - [IT-Lampe.de](https://t.me/rexlManu)
+`Twitter` - [Twitter](https://twitter.com/rexlManu)
+`Telegram` - [Telegram](https://t.me/rexlManu)
 `Website` - [Emmanuel-Lampe.de](https://emmanuel-lampe.de)
 `Company` - [IT-Lampe.de](https://it-lampe.de)
 
