@@ -32,10 +32,14 @@ function pam {
     pa('migrate')
 }
 function pams {
-    pa('migrate --seed')
+    php artisan migrate --seed
 }
 function pamf {
-    pa('migrate:fresh --seed')
+    php artisan migrate:fresh --seed
+}
+
+function pa:make {
+    php artisan make:$args
 }
 
 # Utility
@@ -46,7 +50,7 @@ function .. {
 
 function gac() {
     git add .
-    git commit -m $alias
+    git commit -m $args
 }
 
 function workspace() {
@@ -74,6 +78,34 @@ function touch {
 
 function stat($fName) {
     Get-ItemProperty $fName | Select-Object *
+}
+
+function to(){
+    Param (
+        [Parameter(ValueFromPipeline)][string]$address = '',
+        [Parameter(ValueFromPipeline)] [string]$user = 'root'
+    )
+
+    Start-Process "C:\Program Files (x86)\WinSCP\WinSCP.exe" sftp://"$user@$address":22, /privatekey=$home/.ssh/id_rsa2.ppk
+    ssh -o StrictHostKeyChecking=no "$user@$address"
+}
+
+function to:s(){
+    Param (
+        [Parameter(ValueFromPipeline)][string]$address = '',
+        [Parameter(ValueFromPipeline)] [string]$user = 'root'
+    )
+
+    ssh -o StrictHostKeyChecking=no "$user@$address"
+}
+
+function to:f(){
+    Param (
+        [Parameter(ValueFromPipeline)][string]$address = '',
+        [Parameter(ValueFromPipeline)] [string]$user = 'root'
+    )
+
+    Start-Process "C:\Program Files (x86)\WinSCP\WinSCP.exe" sftp://"$user@$address":22, /privatekey=$home/.ssh/id_rsa2.ppk
 }
 
 Set-Alias c composer
