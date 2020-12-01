@@ -31,4 +31,5 @@ Hey, I am Emmanuel, 19 years old and I come from Germany, Stuttgart. Every day I
 
 <p align="center">
 	<img src=https://github-readme-stats.vercel.app/api?username=rexlManu&show_icons=true alt=rexlManu />
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rene-roscher&layout=compact" alt="rexlManu" />
 </p>
