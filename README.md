@@ -26,7 +26,9 @@ Hey, I am Emmanuel, 19 years old and I come from Germany, Stuttgart. Every day I
 - [Emmanuel-Lampe.de](https://emmanuel-lampe.de)
 - [IT-Lampe.de](https://it-lampe.de)
 
-❤️ Support my open source projects: [ts3audiobot laravel api](https://github.com/rexlManu/ts3audiobot)
+❤️ Support my open source projects: 
+[ts3audiobot laravel api](https://github.com/rexlManu/ts3audiobot)
+[tickets for laravel](https://github.com/rexlManu/laravel-tickets)
 
 
 <p align="center">
