@@ -13,18 +13,17 @@ Hey, I am Emmanuel, 19 years old and I come from Germany, Stuttgart. Every day I
 
 👯 I’m looking to collaborate on Laravel projects.
 
-🖥 For contract development, I am available at mail@emmanuel-lampe.de.
-
 💬 Ask me about memes, anime or games.
 
-⚡ Fun fact: My favorite anime currently is rent a girlfriend 
+⚡ Fun fact: My favorite anime currently is demon slayer 
 
 📫 How to reach me:
 
 - [Twitter](https://twitter.com/rexlManu)
-- [Telegram](https://t.me/rexlManu)
-- [Emmanuel-Lampe.de](https://emmanuel-lampe.de)
-- [IT-Lampe.de](https://it-lampe.de)
+- [Reddit](https://reddit.com/u/rexlManu)
+- [Steam](https://steamcommunity.com/id/rexlManu)
+- Discord: rexlManu#1337
+- [Osu](https://osu.ppy.sh/users/10698598)
 
 ❤️ Support my open source projects: 
 - [ts3audiobot laravel api](https://github.com/rexlManu/ts3audiobot)
