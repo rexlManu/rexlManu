@@ -30,6 +30,7 @@ Hey, I am Emmanuel, 19 years old and I come from Germany, Stuttgart. Every day I
 - [ts3audiobot laravel api](https://github.com/rexlManu/ts3audiobot)
 - [tickets for laravel](https://github.com/rexlManu/laravel-tickets)
 
+[![Spotify](https://novatorem-kbhzwuw7h-rexlmanu.vercel.app/api/spotify)](https://open.spotify.com/user/omnitenebris)
 
 <p align="center">
 	<img src=https://github-readme-stats.vercel.app/api?username=rexlManu&show_icons=true alt=rexlManu />
