@@ -1,8 +1,9 @@
 $env:PSModulePath = $env:PSModulePath + "$([System.IO.Path]::PathSeparator)C:\Users\Emman\Documents\WindowsPowerShell\Modules"
 Import-Module posh-git
 Import-Module oh-my-posh
-Set-Theme Paradox
-# posh-winfetch takes too long, sorry
+Set-PoshPrompt -Theme stelbent.minimal
+
+# posh-winfetch # takes too long, sorry
 
 ## Commands
 # Laravel:
@@ -42,6 +43,10 @@ function pa:make {
     php artisan make:$args
 }
 
+function paide() {
+    php artisan ide-helper:models -M -R -q
+}
+
 # Utility
 
 function .. {
@@ -55,6 +60,10 @@ function gac() {
 
 function workspace() {
     Set-Location "$home\Desktop\Workspace\$args"
+}
+
+function project {
+    Set-Location "$home\Desktop\Projekte\$args"    
 }
 
 function hosts {
@@ -80,7 +89,7 @@ function stat($fName) {
     Get-ItemProperty $fName | Select-Object *
 }
 
-function to(){
+function to() {
     Param (
         [Parameter(ValueFromPipeline)][string]$address = '',
         [Parameter(ValueFromPipeline)] [string]$user = 'root'
@@ -90,7 +99,7 @@ function to(){
     ssh -o StrictHostKeyChecking=no "$user@$address"
 }
 
-function to:s(){
+function to:s() {
     Param (
         [Parameter(ValueFromPipeline)][string]$address = '',
         [Parameter(ValueFromPipeline)] [string]$user = 'root'
@@ -99,7 +108,7 @@ function to:s(){
     ssh -o StrictHostKeyChecking=no "$user@$address"
 }
 
-function to:f(){
+function to:f() {
     Param (
         [Parameter(ValueFromPipeline)][string]$address = '',
         [Parameter(ValueFromPipeline)] [string]$user = 'root'
@@ -109,3 +118,9 @@ function to:f(){
 }
 
 Set-Alias c composer
+
+# Chocolatey profile
+$ChocolateyProfile = "$env:ChocolateyInstall\helpers\chocolateyProfile.psm1"
+if (Test-Path($ChocolateyProfile)) {
+    Import-Module "$ChocolateyProfile"
+}
