@@ -11,7 +11,7 @@ Hey, I am Emmanuel, 20 years old and I come from Germany, Stuttgart. Every day I
 
 🌱 I’m currently learning continuous deployment.
 
-👯 I’m looking to collaborate on Laravel projects.
+👯 I’m looking to collaborate on opensource projects.
 
 💬 Ask me about memes, anime or games.
 
