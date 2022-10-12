@@ -5,7 +5,7 @@
 <a href="https://t.me/rexlManu" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" alt="rexlManu" height="20" width="20" /></a>
 </p>
 
-Hey, I am Emmanuel, 20 years old and I come from Germany, Stuttgart. Every day I try to improve myself and perfect my skills. I am always open for discussions or like to participate in projects. I am also happy when people contact me via Twitter or other ways. You are also welcome to have a look at my repositories and contribute as well.
+Hey, I am Emmanuel, 21 years old and I come from Germany, Stuttgart. Every day I try to improve myself and perfect my skills. I am always open for discussions or like to participate in projects. I am also happy when people contact me via Twitter or other ways. You are also welcome to have a look at my repositories and contribute as well.
 
 <!--🔭 I’m currently working on opensource project [name](https://github.com/rexlManu/name)-->
 
