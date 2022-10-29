@@ -9,7 +9,7 @@ Hey, I am Emmanuel, 21 years old and I come from Germany, Stuttgart. Every day I
 
 <!--🔭 I’m currently working on opensource project [name](https://github.com/rexlManu/name)-->
 
-🌱 I’m currently learning continuous deployment.
+🌱 I’m currently experimenting with artificial intelligence.
 
 👯 I’m looking to collaborate on opensource projects.
 
