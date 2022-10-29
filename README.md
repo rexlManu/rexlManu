@@ -32,8 +32,6 @@ Hey, I am Emmanuel, 21 years old and I come from Germany, Stuttgart. Every day I
 - [nickapi](https://github.com/miopowered/nickapi)
 - [packet-listener](https://github.com/miopowered/packetlistener)
 
-[![Spotify](https://novatorem-kbhzwuw7h-rexlmanu.vercel.app/api/spotify)](https://open.spotify.com/user/mcpq797n5xg5o1skrg56d1yxz)
-
 <p align="center">
 	<img src=https://github-readme-stats.vercel.app/api?username=rexlManu&show_icons=true alt=rexlManu />
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rexlmanu&layout=compact" alt="rexlManu" />
