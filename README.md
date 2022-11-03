@@ -23,7 +23,7 @@ Hey, I am Emmanuel, 21 years old and I come from Germany, Stuttgart. Every day I
 - [Reddit](https://reddit.com/u/rexlManu)
 - [Steam](https://steamcommunity.com/id/rexlManu)
 - [Anilist](https://anilist.co/user/rexlManu)
-- Discord: rexlManu#1337
+- [Discord Server](https://discord.gg/bM8NtsJVeb)
 - [Osu](https://osu.ppy.sh/users/10698598)
 
 ❤️ Support my open source projects: 
