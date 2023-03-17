@@ -27,18 +27,19 @@
 <!-- Skills -->
 <h1 align="center">Favorite tools and technologies 🛠</h1>
 <p align="center">
-  <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
-  <img src="https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
-  <img src="https://img.shields.io/badge/-Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white" alt="Fedora" />
+<img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+<img src="https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
 <img src="https://img.shields.io/badge/-NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" />
-<img src="https://img.shields.io/badge/-Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white" alt="Gradle" />
 <img src="https://img.shields.io/badge/-Vue.JS-4FC08D?style=for-the-badge&logo=vue-dot-js&logoColor=white" alt="Vue.js" />
-<img src="https://img.shields.io/badge/-Minecraft-47A8E6?style=for-the-badge&logo=minecraft&logoColor=white" alt="Minecraft" />
+<img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+<img src="https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
 <img src="https://img.shields.io/badge/-Proxmox-2C3E50?style=for-the-badge&logo=proxmox&logoColor=white" alt="Proxmox" />
+<img src="https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
 <img src="https://img.shields.io/badge/-Hetzner-FFB900?style=for-the-badge&logo=hetzner&logoColor=white" alt="Hetzner" />
+<img src="https://img.shields.io/badge/-Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white" alt="Fedora" />
+<img src="https://img.shields.io/badge/-Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white" alt="Gradle" />
+<img src="https://img.shields.io/badge/-Minecraft-47A8E6?style=for-the-badge&logo=minecraft&logoColor=white" alt="Minecraft" />
+<img src="https://img.shields.io/badge/-OpenAI-000000?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
 
 </p>
 <!-- Facts -->
