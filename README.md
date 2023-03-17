@@ -3,7 +3,6 @@
 <p>I'm a full-stack developer from Stuttgart, Germany, passionate about creating innovative solutions for complex challenges. Eager to learn new technologies, I use them to build efficient, robust systems.</p>
 <p>Explore my GitHub profile to see my latest projects!</p>
 <p>&nbsp;</p>
-<hr>
 <!-- Social media badges -->
 <h2 align="center">Find me on the web 🌎</h2>
 <p>&nbsp;</p>
@@ -28,7 +27,6 @@
   </a>
 </p>
 <p>&nbsp;</p>
-<hr>
 <!-- Facts -->
 <h2 align="center">👨‍💻 About Me</h2>
 <p>&nbsp;</p>
@@ -40,7 +38,6 @@
 - 💼 **Current occupation:** I am currently `freelancing` and working on various projects.
 
 <p>&nbsp;</p>
-<hr>
 <!-- Projects -->
 <h2 align="center">Projects and stats 📊</h2>
 <p>&nbsp;</p>
@@ -65,7 +62,6 @@
   </ul>
 </details>
 <p>&nbsp;</p>
-<hr>
 <!-- Skills -->
 <h2 align="center">Favorite tools and technologies 🛠</h2>
 <p>&nbsp;</p>
@@ -89,8 +85,6 @@
 <hr>
 <p>&nbsp;</p>
 <!-- Footer -->
-<footer align="center">
-  <p>Thanks for visiting my profile! 🙏</p>
+  <p align="center">Thanks for visiting my profile! 🙏</p>
 
-  <p>Feel free to connect with me on <a href="https://t.me/EmmanuelLampe">Telegram</a> or <a href="https://twitter.com/EmmanuelLampe">Twitter</a>.</p>
-</footer>
+  <p align="center">Feel free to connect with me on <a href="https://t.me/EmmanuelLampe">Telegram</a> or <a href="https://twitter.com/EmmanuelLampe">Twitter</a>.</p>
