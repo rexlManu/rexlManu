@@ -1,9 +1,12 @@
 <!-- Introduction -->
-<h1 align="center">👋 Hey, I'm Emmanuel Lampe!</h1>
+<h1 align="center" >👋 Hey, I'm Emmanuel Lampe!</h1>
 <p>I'm a full-stack developer from Stuttgart, Germany, passionate about creating innovative solutions for complex challenges. Eager to learn new technologies, I use them to build efficient, robust systems.</p>
 <p>Explore my GitHub profile to see my latest projects!</p>
+<p>&nbsp;</p>
+<hr>
 <!-- Social media badges -->
-<h1 align="center">Find me on the web 🌎</h1>
+<h2 align="center">Find me on the web 🌎</h2>
+<p>&nbsp;</p>
 <p align="center">
   <a href="https://github.com/rexlManu" target="_blank">
     <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github" alt="GitHub" />
@@ -24,26 +27,23 @@
     <img src="https://img.shields.io/badge/-Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
 </p>
-<!-- Skills -->
-<h1 align="center">Favorite tools and technologies 🛠</h1>
-<p align="center">
-<img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-<img src="https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
-<img src="https://img.shields.io/badge/-NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" />
-<img src="https://img.shields.io/badge/-Vue.JS-4FC08D?style=for-the-badge&logo=vue-dot-js&logoColor=white" alt="Vue.js" />
-<img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-<img src="https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
-<img src="https://img.shields.io/badge/-Proxmox-2C3E50?style=for-the-badge&logo=proxmox&logoColor=white" alt="Proxmox" />
-<img src="https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-<img src="https://img.shields.io/badge/-Hetzner-FFB900?style=for-the-badge&logo=hetzner&logoColor=white" alt="Hetzner" />
-<img src="https://img.shields.io/badge/-Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white" alt="Fedora" />
-<img src="https://img.shields.io/badge/-Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white" alt="Gradle" />
-<img src="https://img.shields.io/badge/-Minecraft-47A8E6?style=for-the-badge&logo=minecraft&logoColor=white" alt="Minecraft" />
-<img src="https://img.shields.io/badge/-OpenAI-000000?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
+<p>&nbsp;</p>
+<hr>
+<!-- Facts -->
+<h2 align="center">👨‍💻 About Me</h2>
+<p>&nbsp;</p>
 
-</p>
+- 👤 **Pronouns:** he/him
+- 🎧 **Music taste:** I love listening to `lofi` and `EDM`.
+- 📺 **Favorite anime:** My top anime picks are `Demon Slayer` and `Rascal Does Not Dream of Bunny Girl Senpai`.
+- 🎮 **Favorite games:** I enjoy playing `League of Legends`, `Minecraft`, and `osu`.
+- 💼 **Current occupation:** I am currently `freelancing` and working on various projects.
+
+<p>&nbsp;</p>
+<hr>
 <!-- Projects -->
-<h1 align="center">Projects and stats 📊</h1>
+<h2 align="center">Projects and stats 📊</h2>
+<p>&nbsp;</p>
 <details>
   <summary><strong>Projects</strong></summary>
   <ul>
@@ -64,17 +64,30 @@
 </p>
   </ul>
 </details>
-
-<!-- Facts -->
-<h1 align="center">👨‍💻 About Me</h1>
-
-- 👤 **Pronouns:** he/him
-- 🎧 **Music taste:** I love listening to `lofi` and `EDM`.
-- 📺 **Favorite anime:** My top anime picks are `Demon Slayer` and `Rascal Does Not Dream of Bunny Girl Senpai`.
-- 🎮 **Favorite games:** I enjoy playing `League of Legends`, `Minecraft`, and `osu`.
-- 💼 **Current occupation:** I am currently `freelancing` and working on various projects.
-
+<p>&nbsp;</p>
 <hr>
+<!-- Skills -->
+<h2 align="center">Favorite tools and technologies 🛠</h2>
+<p>&nbsp;</p>
+<p align="center">
+<img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+<img src="https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
+<img src="https://img.shields.io/badge/-NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" />
+<img src="https://img.shields.io/badge/-Vue.JS-4FC08D?style=for-the-badge&logo=vue-dot-js&logoColor=white" alt="Vue.js" />
+<img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+<img src="https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+<img src="https://img.shields.io/badge/-Proxmox-2C3E50?style=for-the-badge&logo=proxmox&logoColor=white" alt="Proxmox" />
+<img src="https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+<img src="https://img.shields.io/badge/-Hetzner-FFB900?style=for-the-badge&logo=hetzner&logoColor=white" alt="Hetzner" />
+<img src="https://img.shields.io/badge/-Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white" alt="Fedora" />
+<img src="https://img.shields.io/badge/-Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white" alt="Gradle" />
+<img src="https://img.shields.io/badge/-Minecraft-47A8E6?style=for-the-badge&logo=minecraft&logoColor=white" alt="Minecraft" />
+<img src="https://img.shields.io/badge/-OpenAI-000000?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
+
+</p>
+<p>&nbsp;</p>
+<hr>
+<p>&nbsp;</p>
 <!-- Footer -->
 <footer align="center">
   <p>Thanks for visiting my profile! 🙏</p>
