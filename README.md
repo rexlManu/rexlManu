@@ -42,7 +42,7 @@
 <img src="https://img.shields.io/badge/-OpenAI-000000?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
 
 </p>
-<!-- Facts -->
+<!-- Projects -->
 <h1 align="center">Projects and stats 📊</h1>
 <details>
   <summary><strong>Projects</strong></summary>
@@ -64,6 +64,17 @@
 </p>
   </ul>
 </details>
+
+<!-- Facts -->
+<h1 align="center">👨‍💻 About Me</h1>
+
+- 👤 **Pronouns:** he/him
+- 🎧 **Music taste:** I love listening to `lofi` and `EDM`.
+- 📺 **Favorite anime:** My top anime picks are `Demon Slayer` and `Rascal Does Not Dream of Bunny Girl Senpai`.
+- 🎮 **Favorite games:** I enjoy playing `League of Legends`, `Minecraft`, and `osu`.
+- 💼 **Current occupation:** I am currently `freelancing` and working on various projects.
+
+<hr>
 <!-- Footer -->
 <footer align="center">
   <p>Thanks for visiting my profile! 🙏</p>
