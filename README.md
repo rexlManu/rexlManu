@@ -2,10 +2,10 @@
 <h1 align="center" >👋 Hey, I'm Emmanuel Lampe!</h1>
 <p>I'm a full-stack developer from Stuttgart, Germany, passionate about creating innovative solutions for complex challenges. Eager to learn new technologies, I use them to build efficient, robust systems.</p>
 <p>Explore my GitHub profile to see my latest projects!</p>
-<p>&nbsp;</p>
+
 <!-- Social media badges -->
 <h2 align="center">Find me on the web 🌎</h2>
-<p>&nbsp;</p>
+
 <p align="center">
   <a href="https://github.com/rexlManu" target="_blank">
     <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github" alt="GitHub" />
@@ -26,10 +26,9 @@
     <img src="https://img.shields.io/badge/-Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
 </p>
-<p>&nbsp;</p>
+
 <!-- Facts -->
 <h2 align="center">👨‍💻 About Me</h2>
-<p>&nbsp;</p>
 
 - 👤 **Pronouns:** he/him
 - 🎧 **Music taste:** I love listening to `lofi` and `EDM`.
@@ -37,10 +36,9 @@
 - 🎮 **Favorite games:** I enjoy playing `League of Legends`, `Minecraft`, and `osu`.
 - 💼 **Current occupation:** I am currently `freelancing` and working on various projects.
 
-<p>&nbsp;</p>
 <!-- Projects -->
 <h2 align="center">Projects and stats 📊</h2>
-<p>&nbsp;</p>
+
 <details>
   <summary><strong>Projects</strong></summary>
   <ul>
@@ -61,10 +59,10 @@
 </p>
   </ul>
 </details>
-<p>&nbsp;</p>
+
 <!-- Skills -->
 <h2 align="center">Favorite tools and technologies 🛠</h2>
-<p>&nbsp;</p>
+
 <p align="center">
 <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
 <img src="https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
@@ -81,9 +79,9 @@
 <img src="https://img.shields.io/badge/-OpenAI-000000?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
 
 </p>
-<p>&nbsp;</p>
+
 <hr>
-<p>&nbsp;</p>
+
 <!-- Footer -->
   <p align="center">Thanks for visiting my profile! 🙏</p>
 
