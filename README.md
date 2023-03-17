@@ -1,6 +1,7 @@
 <!-- Introduction -->
 <h1 align="center">Hi, I'm Emmanuel Lampe! 👋</h1>
-<p>I'm a full-stack developer from Stuttgart, Germany with a passion for finding innovative solutions to complex problems. I love learning about new technologies and using them to build robust and efficient systems. Check out my Github profile to see my latest projects!</p>
+<p>I'm a full-stack developer from Stuttgart, Germany with a passion for finding innovative solutions to complex problems. <br> I love learning about new technologies and using them to build robust and efficient systems. 
+<br>Check out my Github profile to see my latest projects!</p>
 <!-- Social media badges -->
 <h1 align="center">Find me on the web 🌎</h1>
 <p align="center">
