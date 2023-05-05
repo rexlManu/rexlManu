@@ -25,6 +25,9 @@
   <a href="https://t.me/EmmanuelLampe" target="_blank">
     <img src="https://img.shields.io/badge/-Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
+  <a href="https://anilist.co/user/rexlManu" target="_blank">
+    <img src="https://img.shields.io/badge/-Anilist-152232?style=for-the-badge&logo=anilist&logoColor=white" alt="Anilist" />
+  </a>
 </p>
 
 <!-- Facts -->
