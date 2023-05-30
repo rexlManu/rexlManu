@@ -51,6 +51,7 @@
 	<li><strong><a href="https://github.com/rexlManu/keshi-cli">keshi-cli</a>:</strong> A simple CLI for running commands concurrently.</li>
 	<li><strong><a href="https://github.com/rexlManu/goflink-discount-checker">goflink-discount-checker</a>:</strong> A tool to check discount codes in bulk to see if they are valid for Goflink.</li>
 	<li><strong><a href="https://github.com/miopowered">miopowered</a>:</strong> An organization that contains libraries and tools for creating Spigot plugins.</li>
+        <li><strong><a href="https://github.com/rexlManu/pterodactyl-upload-action">pterodactyl-upload-action</a>:</strong> A GitHub Action for efficient multi-server file uploads to Pterodactyl with proxy support.</li>
   </ul>
 </details>
 <details>
