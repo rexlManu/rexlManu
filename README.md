@@ -36,7 +36,7 @@
 - 👤 **Pronouns:** he/him
 - 🎧 **Music taste:** I love listening to `lofi` and `EDM`.
 - 📺 **Favorite anime:** My top anime picks are `Demon Slayer` and `Rascal Does Not Dream of Bunny Girl Senpai`.
-- 🎮 **Favorite games:** I enjoy playing `League of Legends`, `Minecraft`, and `osu`.
+- 🎮 **Favorite games:** I enjoy playing `League of Legends`, `Minecraft`, and `Valorant`.
 - 💼 **Current occupation:** I am currently `freelancing` and working on various projects.
 
 <!-- Projects -->
